@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I don't drink coffee
 
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-alchemist)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Alchemist&show_icons=true&count_private=true) 
 
 
 ### Languages and Tools:
