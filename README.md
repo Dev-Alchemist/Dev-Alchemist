@@ -2,9 +2,9 @@
 
 ## I'm a Developer, and Student!!
 
-- 🌱 I’m currently learning Kotlin Android 🤣
+- 🌱 I’m currently learning Kotlin Android 
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I don't drink coffee
+- ⚡ Fun fact: I don't drink coffee 🤣
 
 <br />
 
