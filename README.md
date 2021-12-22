@@ -8,11 +8,7 @@
 <br />
 
 
-## Languages
+## Stats
 
-<a href="https://github.com/Dev-Alchemist/github-stats">
-
- ![](https://github.com/Dev-Alchemist/github-stats/blob/master/generated/languages.svg)
-
-</a>
+https://github-readme-stats.vercel.app/api?Dev-Alchemist
 
