@@ -11,5 +11,5 @@
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-alchemist&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-alchemis&theme=radical)
 
