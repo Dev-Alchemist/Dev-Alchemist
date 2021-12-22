@@ -10,5 +10,5 @@
 
 ## Stats
 
-https://github-readme-stats.vercel.app/api?Dev-Alchemist
+![GitHub Stats](https//github-readme-stats.vercel.app/api?Dev-Alchemist)
 
