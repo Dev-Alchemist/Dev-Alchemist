@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-alchemist&show_icons=true&theme=dracula)
 
- ![](https://github.com/carrieukie/github-stats/blob/master/generated/languages.svg)
+ ![](https://github.com/dev-alchemist/github-stats/blob/master/generated/languages.svg)
 
 
 
