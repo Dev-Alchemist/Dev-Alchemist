@@ -4,6 +4,7 @@
 
 - 🌱 Feel free to contact me: wawerusteve142@gmail.com
 - 🥅 2021 Goals: Contribute to Open Source projects
+- Currently working on unit tests
 
 <br />
 
