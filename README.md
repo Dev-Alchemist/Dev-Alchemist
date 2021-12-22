@@ -11,5 +11,6 @@
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-alchemist&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-alchemist&show_icons=true&theme=dracula)
+
 
