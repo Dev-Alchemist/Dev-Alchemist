@@ -3,8 +3,6 @@
 ## I'm a Software developer!!!
 
 - 🌱 Feel free to contact me: wawerusteve142@gmail.com
-- 🥅 Web 3.0 curious
-- Currently working on unit tests
 
 <br />
 
