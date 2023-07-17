@@ -2,4 +2,4 @@
 
 ## I'm a Software developer!!!
 
-- 🌱 Feel free to contact me: wawerusteve142@gmail.com
+- 🌱 Feel free to contact me at: wawerusteve142@gmail.com
